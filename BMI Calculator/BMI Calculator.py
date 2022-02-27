@@ -1,5 +1,0 @@
-a = input("Your weight in kg is: ")
-b = input("Your height in meters is: ")
-c = float(a) / (float(b) ** 2)
-d = int(c)
-print("Your BMI is" + " " + str(d))

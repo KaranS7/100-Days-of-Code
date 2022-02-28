@@ -1,7 +1,0 @@
-a = (input("Enter a five digit number: "))
-b = (a[0])
-c = (a[1])
-d = (a[2])
-e = (a[3])
-f = (a[4])
-print(f"Your number contains {b} ten thousands, {c} thousands, {d} hundreds, {e} tens, {f} ones")

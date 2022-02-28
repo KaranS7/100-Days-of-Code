@@ -1,6 +1,0 @@
-print("Welcome to the tip calculator")
-a = input("What was the total bill amount? $ ")
-b = input("How much tip would you like to give? 10, 12, or 15?")
-c = input("How many people to split the bill? ")
-d = round((float(a) / float(c)) + (((float(b) / 100) * float(a)) / float(c)), 2)
-print(f"Each person should pay: ${d}")
